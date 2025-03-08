@@ -9,7 +9,7 @@ const PatientList = () => {
   const handleSearch = () => {
     searchPatients(name);
   };
-  
+
   return (
     <div>
       <TextField
