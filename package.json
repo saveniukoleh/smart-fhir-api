@@ -2,7 +2,7 @@
   "name": "smart-fhir-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saveniukoleh.com/smart-fhir-api",
+  "homepage": "https://saveniukoleh.github.io/smart-fhir-api",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
