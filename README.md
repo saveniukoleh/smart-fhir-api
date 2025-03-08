@@ -1,5 +1,8 @@
 # SMART FHIR API
 
+## Production
+Production version of this app is available on: https://smart-fhir-api.vercel.app/
+
 ## Overview
 A simple React application that interacts with the SMART on FHIR API to manage patient records.
 
