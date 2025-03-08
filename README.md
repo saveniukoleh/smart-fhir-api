@@ -19,6 +19,3 @@ A simple React application that interacts with the SMART on FHIR API to manage p
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the application.
-
-## Optional
-You can deploy the app using services like Vercel or Netlify.
